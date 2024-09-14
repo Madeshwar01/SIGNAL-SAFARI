@@ -9,3 +9,5 @@ understanding of network performance for the diverse community of students and
 administrators traversing the campus landscape. Through this endeavour, we endeavour to 
 empower stakeholders with actionable insights, enabling informed decision-making and 
 enhancing the overall connectivity experience within the campus ecosystem
+
+link : [https://signal-safari.vercel.app/frontend.html](url)
